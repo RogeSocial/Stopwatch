@@ -10,4 +10,4 @@ Download the project and open the HTML file in a browser.
 ## **Contributors**
 [@RogeSocial](https://github.com/RogeSocial) <br>
 [@SimonLeBuono123](https://github.com/SimonLeBuono123) <br>
-[]()
+[@rimdagic](https://github.com/rimdagic)
