@@ -8,6 +8,7 @@ We have created a stopwatch project since we go to school and want to get better
 Download the project and open the HTML file in a browser.
 
 ## **Contributors**
-[@RogeSocial](https://github.com/RogeSocial) <br>
-[](https://github.com/SimonLeBuono123) <br>
-[]()
+[RogeSocial](https://github.com/RogeSocial) <br>
+[SimonLeBuono123](https://github.com/SimonLeBuono123) <br>
+[rimdagic](https://github.com/rimdagic) 
+
